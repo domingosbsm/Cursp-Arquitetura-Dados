@@ -1,1 +1,1 @@
-# Cursp-Arquitetura-Dados
+# Curso-Arquitetura-Dados
