@@ -1,0 +1,9 @@
+{
+	"name": "adfcursoaquiteturadev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af13e246-0664-4478-9420-3cee93688953",
+		"tenantId": "494d49f4-9662-4000-aa8c-d05715c0c567"
+	}
+}
